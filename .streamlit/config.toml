@@ -1,5 +1,2 @@
 [server]
 headless = true
-
-# Increase these values if your app times out
-websocketMaxMessageSize = 20000

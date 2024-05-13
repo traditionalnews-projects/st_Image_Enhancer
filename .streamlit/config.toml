@@ -7,3 +7,4 @@ headless = true
 [theme]
 primaryColor = "#F63366"
 backgroundColor = "black"
+
